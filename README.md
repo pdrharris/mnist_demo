@@ -5,5 +5,6 @@ The key difference between this and other demos is that the data is stored as pn
 
 The pdf file "Demo Guide.pdf" gives more information about which files to run.
 
-If you just want to the demo without downloading the dataset or installing python, the link below should enable you to do that.
+If you just want to the demo without downloading the dataset or installing python, click the _launch binder_ link below.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdrharris/mnist_demo/main?labpath=notebooks%2Fmnist_demo.ipynb)
